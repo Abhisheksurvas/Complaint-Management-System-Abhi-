@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -14,3 +15,7 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+# Complaint-Management-System
+The Complaint Management System is a web-based application designed to streamline the process of registering, tracking, and resolving complaints efficiently. This system allows users to submit complaints, monitor their status, and receive updates, while administrators can manage, assign, and resolve issues in a structured manner.
+>>>>>>> 1ec2ba22a0d2335acb67d3409b66a698397402e3
